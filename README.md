@@ -1,15 +1,24 @@
-### Hi there 👋, my name is Oleksandr!
-#### I am Python Developer
+<h1 align="center">Hi 👋, I'm Oleksandr</h1>
+<h3 align="center">Backend developer from Ukraine</h3>
 
-Skills: PYTHON / POSTGRESQL / DJANGO
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karpenko-oleksandr&label=Profile%20views&color=0e75b6&style=flat" alt="karpenko-oleksandr" /> </p>
 
-- 🔭 I’m currently working on https://github.com/Karpenko-Oleksandr/Honey-Shop 
-- 🌱 I’m currently learning the Django Framework 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karpenko-oleksandr" alt="karpenko-oleksandr" /></a> </p>
 
+- 🔭 I’m currently working on [Honey Shop](https://github.com/Karpenko-Oleksandr/Honey-Shop)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Karpenko-Oleksandr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleksandr-karpenko-ba6b44293/)  
+- 🌱 I’m currently learning **Django**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karpenko-Oleksandr)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oleksandr-karpenko-ba6b44293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleksandr-karpenko-ba6b44293/" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Karpenko-Oleksandr&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karpenko-oleksandr&show_icons=true&locale=en&layout=compact" alt="karpenko-oleksandr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karpenko-oleksandr&show_icons=true&locale=en" alt="karpenko-oleksandr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karpenko-oleksandr&" alt="karpenko-oleksandr" /></p>
