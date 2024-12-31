@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Karpenko</h1>
 <h2 align="center">Backend developer from Ukraine</h2>
 
-<h3>🔭 I’m currently working on [Honey Shop](https://github.com/Karpenko-Oleksandr/Honey-Shop)</h3>
-
-<h3>🌱 I’m currently learning **Django**</h3>
+<h3> - 🔭 I’m currently working on <a name="Honey Shop">https://github.com/Karpenko-Oleksandr/Honey-Shop</a></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
