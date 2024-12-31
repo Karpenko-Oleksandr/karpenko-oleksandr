@@ -4,7 +4,7 @@
 <h3>🔭 I’m currently working on <a href="https://github.com/Karpenko-Oleksandr/Honey-Shop">Honey Shop</a></h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/oleksandr-karpenko-ba6b44293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleksandr-karpenko-ba6b44293/" height="30" width="40" /></a>
 </p>
 
