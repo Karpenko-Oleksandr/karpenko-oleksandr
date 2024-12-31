@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Oleksandr</h1>
-<h3 align="center">Backend developer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Oleksandr Karpenko</h1>
+<h2 align="center">Backend developer from Ukraine</h2>
 
-- 🔭 I’m currently working on [Honey Shop](https://github.com/Karpenko-Oleksandr/Honey-Shop)
+<h3>🔭 I’m currently working on [Honey Shop](https://github.com/Karpenko-Oleksandr/Honey-Shop)</h3>
 
-- 🌱 I’m currently learning **Django**
+<h3>🌱 I’m currently learning **Django**</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/oleksandr-karpenko-ba6b44293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleksandr-karpenko-ba6b44293/" height="30" width="40" /></a>
 </p>
 
