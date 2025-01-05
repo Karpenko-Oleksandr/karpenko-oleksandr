@@ -35,9 +35,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Karpenko-Oleksandr/Karpenko-Oleksandr/output/snake.svg" alt="Snake animation" />
-
-###
