@@ -11,6 +11,12 @@
 
 ###
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVmcnI2d2NnazVrbnJmbmZobTM2amNnZXk2Y2FkNng5eWQwYWVyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Md4HxVVdO3fCagcUBI/giphy.gif"  />
+
+###
+
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -23,9 +29,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVmcnI2d2NnazVrbnJmbmZobTM2amNnZXk2Y2FkNng5eWQwYWVyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Md4HxVVdO3fCagcUBI/giphy.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/oleksandr-karpenko-ba6b44293/" target="_blank">
@@ -37,4 +41,3 @@
 </div>
 
 ###
-
