@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Oleksandr Karpenko and I'm a Python Developer, from Ukraine</h2>
+<h2 align="left">My name is Oleksandr Karpenko and I'm a Software Engineer, from Ukraine</h2>
 
 ###
 
